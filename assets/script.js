@@ -2,7 +2,7 @@ var today = moment();
 $("#currentDay").text(today.format("MMM Do, YYYY"));
 console.log(today.format("MMM Do, YYYY"))
 
-// on click funtion
+
 // when clicked writes to local storage 
 
 // function that retrieves the info from local storage 
@@ -24,3 +24,6 @@ $("textarea").each(function(){
         $(this).addClass("present");
     }
 })
+
+// on click funtion
+submitBtn.addEventListener("click", locationInput)
