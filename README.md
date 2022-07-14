@@ -1,7 +1,7 @@
 # 05-challenge
 
 ## Mission
-Create a simple calendar application that allows a user to save events for each hour of the day.  The calendar is color coded to make for easier readng.  Grey timeslots indicate that time has passed, red indicates the current time and green indicaates future timeslots.
+Create a simple calendar application that allows a user to save events for each hour of the day.  The calendar is color coded to make for easier readng.  Grey timeslots indicate that time has passed, red indicates the current time and green indicates future timeslots.
 
 ## Technology
 JQuery, Moment.js
